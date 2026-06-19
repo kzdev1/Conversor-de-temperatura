@@ -31,15 +31,9 @@ if (selection == 6){
    let K = prompt("Digite o número a ser convertido: ")
    let resultado = (K - 273.15) * 1.8 + 32;
    alert(`O resultado é ${resultado.toFixed(2)}C`)
-}
+} */
 
 
-
-/* passo a passo da minha cabeça 
-1 - preciso receber qual a coversão dentre 6 opções
-2 - preciso receber o numero a ser convertido 
-3 - preciso criar a função com a fórmula para converter
-4 - mostrar o resultado */
 
 function calcular(){
 
